@@ -1,0 +1,29 @@
+
+header{
+    background-color: rgb(202, 93, 93);
+    text-align: center; 
+    border-style: double;
+}
+#links{
+    display:flex;
+    justify-content: space-around;
+}
+#chamada{
+    text-align:center;
+    font-size: 180%;
+}
+h2{
+    font-family:"Kunstler Script";
+    font-size: 35px;
+}
+body{
+    background-color:rgb(247, 206, 182);
+}
+footer{
+    height: 180px;
+    background-color: rgb(202, 93, 93);
+    text-align:center;
+}
+#creditos{
+    text-align:right;
+}
